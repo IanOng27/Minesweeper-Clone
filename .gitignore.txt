@@ -1,0 +1,6 @@
+# Visual Studio temporary and build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo

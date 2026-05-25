@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shishou\\source\\repos\\Minesweeper Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836717A0-6040-9025-127E-EAB68F727B8A}|Minesweeper\\Minesweeper.csproj|c:\\users\\shishou\\source\\repos\\minesweeper solution\\minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836717A0-6040-9025-127E-EAB68F727B8A}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Shishou\\source\\repos\\Minesweeper Solution\\Minesweeper\\Form1.cs",
+              "RelativeDocumentMoniker": "Minesweeper\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shishou\\source\\repos\\Minesweeper Solution\\Minesweeper\\Form1.cs",
+              "RelativeToolTip": "Minesweeper\\Form1.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowDkEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T07:13:30.456Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
